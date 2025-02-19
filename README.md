@@ -29,3 +29,5 @@ I'm Danes, a passionate Data Analyst and Data Engineer with a strong foundation 
 ## 📬 Get in Touch
 - **LinkedIn**: https://www.linkedin.com/in/daniswaraekas/
 - **Email**: daniswaraekas@gmail.com
+
+### Thank you for visiting my profile! I'm always open to connecting, collaborating, and discussing exciting data projects. Feel free to reach out!
